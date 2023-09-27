@@ -1,0 +1,14 @@
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\bin\Debug\net7.0\3rdPositionSeekDataStructures.exe
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\bin\Debug\net7.0\3rdPositionSeekDataStructures.deps.json
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\bin\Debug\net7.0\3rdPositionSeekDataStructures.runtimeconfig.json
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\bin\Debug\net7.0\3rdPositionSeekDataStructures.dll
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\bin\Debug\net7.0\3rdPositionSeekDataStructures.pdb
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\obj\Debug\net7.0\3rdPositionSeekDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\obj\Debug\net7.0\3rdPositionSeekDataStructures.AssemblyInfoInputs.cache
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\obj\Debug\net7.0\3rdPositionSeekDataStructures.AssemblyInfo.cs
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\obj\Debug\net7.0\3rdPositionSeekDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\obj\Debug\net7.0\3rdPositionSeekDataStructures.dll
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\obj\Debug\net7.0\refint\3rdPositionSeekDataStructures.dll
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\obj\Debug\net7.0\3rdPositionSeekDataStructures.pdb
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\obj\Debug\net7.0\3rdPositionSeekDataStructures.genruntimeconfig.cache
+C:\Users\digit\Desktop\Projects\3rdPositionSeekDataStructures\3rdPositionSeekDataStructures\obj\Debug\net7.0\ref\3rdPositionSeekDataStructures.dll
